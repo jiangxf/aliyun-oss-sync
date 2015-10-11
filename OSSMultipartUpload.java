@@ -30,7 +30,7 @@ import com.aliyun.oss.model.UploadPartRequest;
 import com.aliyun.oss.model.UploadPartResult;
 
 /**
-	放在235上，定时任务轮询上传视频文件目录
+	放在linux上，定时任务轮询上传视频文件目录
  **/
 public class OSSMultipartUpload {
 
